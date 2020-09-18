@@ -1,4 +1,4 @@
-#Marc Paul
+#Daniel DeRemigi and Marc Paul
 import csv
 import string 
 from nltk.corpus import stopwords
