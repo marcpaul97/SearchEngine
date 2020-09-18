@@ -1,4 +1,4 @@
-#Marc Paul
+#Daniel DeRemigi and Marc Paul
 
 import requests
 import time
